@@ -1,6 +1,4 @@
-# Project Title
-
-**Crop Yield Analysis and Data Cleaning Using Python**
+# **Crop Yield Analysis and Data Cleaning Using Python**
 
 ## 📊 Project Overview and objective
 
